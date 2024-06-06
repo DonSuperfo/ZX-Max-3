@@ -11,4 +11,4 @@ PCB can be fit in 48K or 48K+ case.
 - Printer Port on board
 - 40 pin connector for CF card Adapter for use with +3E ROM
 
-![Board](https://github.com/DonSuperfo/ZX-Max-2A/blob/main/Issue%201A/ZX%20Max%202A%20Issue%201A.jpg)
+![Board](https://github.com/DonSuperfo/ZX-Max-3/blob/main/Issue%201/ZX%20Max%203%20Issue%201.jpg)
