@@ -12,3 +12,7 @@ PCB can be fit in 48K or 48K+ case.
 - 40 pin connector for CF card Adapter for use with +3E ROM
 
 ![Board](https://github.com/DonSuperfo/ZX-Max-3/blob/main/Issue%201/ZX%20Max%20%2B3%20Issue%201.jpg)
+
+You can buy ZX Max +3 issue 1 PCB from PCBWay through this link:
+
+<a href="https://www.pcbway.com/project/shareproject/ZX_Max_3_Issue_1_eaec7c7c.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
